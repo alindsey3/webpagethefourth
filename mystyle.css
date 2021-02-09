@@ -22,11 +22,11 @@ ul {
   list-style-type: none;
   padding: 0px;
   display: flex;
-  justify-content: left;
+  justify-content: right;
 }
 
 li {
-  margin-right: 15.5%;
+  margin-right: 77px;
 }
 
 a {
