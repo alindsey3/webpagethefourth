@@ -25,6 +25,10 @@ ul {
   justify-content: left;
 }
 
+li {
+  margin-right: 77.5px;
+}
+
 a {
   text-decoration: none;
   background: #FFF;
