@@ -12,8 +12,14 @@ body {
 
 #content-box {
   background: #FFF;
+  font-family: "Lucida Console", "Courier New", monospace;
   padding: 15px;
   margin-bottom: 15px;
+}
+
+h1 {
+  font-family: "Lucida Handwriting", "Brush Script M7", cursive;
+  font-style: italic;
 }
 
 ul {
@@ -26,7 +32,7 @@ ul {
 }
 
 li {
-  margin-right: 77px;
+  margin-right: 29px;
 }
 
 a {
